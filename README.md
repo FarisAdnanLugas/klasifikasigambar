@@ -1,4 +1,4 @@
-# klasifikasigambar
+# klasifikasi gambar
 Sebuah Project Klasifikasi Gambar dari dataset Batu, Gunting, dan Kertas untuk memenuhi submission Dicoding Academy....
 
 # Belajar Machine Learning untuk Pemula
